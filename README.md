@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm NeoGeekJr</h1>
-<h3 align="center">A passonate backend developer and discord bot developer</h3>
+<h1 align="center">I'm NeoGeekJr</h1>
+<h3 align="center">A backend developer and discord bot developer</h3>
 
 - 🔭 I’m currently working on [Discord Tomogatchi RPC](https://github.com/neogeekjr/TomogatchiRPC)
 
