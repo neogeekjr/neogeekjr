@@ -1,7 +1,7 @@
 <h1 align="center">I'm NeoGeekJr</h1>
 <h3 align="center">A backend developer and discord bot developer</h3>
 
-- 🔭 I’m currently working on [Discord Tomogatchi RPC](https://github.com/neogeekjr/TomogatchiRPC)
+- 🔭 I’m currently working on API Development
 
 - 👨‍💻 All of my projects are available at [https://neogeekjr.com/projects](https://neogeekjr.com/projects)
 
